@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/miniappfix/static/js/main.cf598a29.chunk.js",
+    "main.js.map": "/miniappfix/static/js/main.cf598a29.chunk.js.map",
+    "runtime-main.js": "/miniappfix/static/js/runtime-main.6bdc86ea.js",
+    "runtime-main.js.map": "/miniappfix/static/js/runtime-main.6bdc86ea.js.map",
+    "static/css/2.09e62520.chunk.css": "/miniappfix/static/css/2.09e62520.chunk.css",
+    "static/js/2.0eaecc66.chunk.js": "/miniappfix/static/js/2.0eaecc66.chunk.js",
+    "static/js/2.0eaecc66.chunk.js.map": "/miniappfix/static/js/2.0eaecc66.chunk.js.map",
+    "index.html": "/miniappfix/index.html",
+    "precache-manifest.a3d29c943c07275cb4e1a7cc4f230766.js": "/miniappfix/precache-manifest.a3d29c943c07275cb4e1a7cc4f230766.js",
+    "service-worker.js": "/miniappfix/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/miniappfix/static/css/2.09e62520.chunk.css.map",
+    "static/js/2.0eaecc66.chunk.js.LICENSE.txt": "/miniappfix/static/js/2.0eaecc66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bdc86ea.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.0eaecc66.chunk.js",
+    "static/js/main.cf598a29.chunk.js"
+  ]
+}
