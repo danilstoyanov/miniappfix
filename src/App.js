@@ -27,16 +27,6 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    // function setReferrerHeader(referrerName) {
-      Object.defineProperty(document, "referrer", {
-        get: function () {
-          console.log(referrerName, 'referrerName');
-
-          return referrerName;
-        },
-      });
-    // }
-
     bridge.send("VKWebAppGetUserInfo", {}).then((user) => {
       this.setState({ user });
     });
